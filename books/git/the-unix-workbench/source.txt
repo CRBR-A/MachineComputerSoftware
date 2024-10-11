@@ -1,0 +1,4 @@
+From the ["The Unix Workbench"](https://github.com/seankross/the-unix-workbench), 
+by [Sean Kross](http://seankross.com) 
+released under [CC0 license (Zero rights reserved).](https://creativecommons.org/publicdomain/zero/1.0/) 
+
