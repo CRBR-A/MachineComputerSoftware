@@ -1,0 +1,3 @@
+source: https://github.com/davetang/getting_started_with_git
+license: CC0-1.0
+author: Dave Tang

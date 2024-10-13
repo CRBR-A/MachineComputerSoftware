@@ -1,0 +1,3 @@
+source: https://github.com/davetang/learning_bash
+license: CC0-1.0
+author: Dave Tang
